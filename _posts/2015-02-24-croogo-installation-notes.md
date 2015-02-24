@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Croogo Installation Notes"
-excerpt: "It should be fairly easy to install Croogo, because I already familiar with CakePHP."
 description: 
 headline: 
 modified: 2015-02-24
@@ -11,12 +10,11 @@ image:
   feature: 
 comments: true
 mathjax: 
-excerpt_separator: <!--more-->
 ---
 
 It should be fairly easy to install Croogo, because I already familiar with CakePHP. 
 Somehow, I was facing difficulties due to forgetting that my Apache and PHP setup was new in my OSX Yosemite.
-<!--more-->
+
 
 # Installation Procedure
 
