@@ -1,7 +1,7 @@
 ---
 layout: post
 type: quote
-title: "list all loaded modules: apachectl -M or apache2ctl -M"
+title: "Apache, list all loaded modules"
 description: 
 headline: 
 modified: 2015-03-04
@@ -12,3 +12,4 @@ image:
 comments: false
 mathjax: 
 ---
+apachectl -M or apache2ctl -M
